@@ -1,0 +1,1 @@
+ C:\\Users\\HP\\OneDrive\\Desktop\\BMI-CALCULATOR\\.dart_tool\\flutter_build\\908043bde834978b21ee06afcfe9f526\\native_assets.yaml: 
